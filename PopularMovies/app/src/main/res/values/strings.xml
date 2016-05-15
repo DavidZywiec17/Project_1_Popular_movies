@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">PopularMovies</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_movielist">Fetch Movies</string>
+    <string name="title_activity_movie__detail">Movie_Detail</string>
+    <string name="popular_sort">Popular</string>
+    <string name="highest_sort">Highest_Rated</string>
+</resources>

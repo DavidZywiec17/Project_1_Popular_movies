@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Title_Bar" parent="@android:style/TextAppearance.Medium">
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textColor">#D9E5F5</item>
+        <item name="android:typeface">monospace</item>
+        <item name="android:textSize">30sp</item>
+        <item name="android:textAlignment">center</item>
+        <item name="android:background">#2A5795</item>
+    </style>
+    <style name="blue" parent="@android:style/TextAppearance.Large">
+        <item name="android:background">#2A5795</item>
+    </style>
+</resources>
